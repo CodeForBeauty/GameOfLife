@@ -3,7 +3,7 @@
 ###############################################################################
 * text=auto
 Dependecies/** linguist-detectable=false
-Apus/glad.c linguist-detectable=false
+GameOfLife/glad.c linguist-detectable=false
 ApusCore/glad.c linguist-detectable=false
 
 ###############################################################################
